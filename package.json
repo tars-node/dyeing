@@ -1,18 +1,18 @@
 {
   "name": "@tars/dyeing",
   "version": "1.0.0",
-  "description": "TAF 染色基础模块",
+  "description": "TARS 染色基础模块",
   "author": {
     "name": "Superzheng",
     "email": "superzheng@tencent.com"
   },
   "repository": {
     "type": "git",
-    "url": "http://git.code.oa.com/taf/taf-dyeing.git"
+    "url": "https://github.com/tars-node/dyeing.git"
   },
-  "homepage": "http://git.oa.com/taf/taf-dyeing",
+  "homepage": "https://github.com/tars-node/dyeing",
   "bugs": {
-    "url": "http://git.oa.com/taf/taf-dyeing/issues"
+    "url": "https://github.com/tars-node/dyeing/issues"
   },
   "keywords": [
     "dyeing",
