@@ -6,6 +6,7 @@
     "name": "Superzheng",
     "email": "superzheng@tencent.com"
   },
+  "types": "tars-dyeing.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/tars-node/dyeing.git"
